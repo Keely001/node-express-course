@@ -1,6 +1,7 @@
 //set up env
 
 require('dotenv').config()
+require('express-async-errors');
 
 //packages
 
